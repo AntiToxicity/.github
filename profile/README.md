@@ -20,15 +20,9 @@ Anti Toxicity is a powerful Discord bot developed by our team at [Your Organizat
 - **Data Privacy**: We prioritize user privacy and data security. Anti Toxicity operates entirely within your Discord server and does not store or share any message data outside of your server.
 
 🔒 Installation:
-1. Invite Anti Toxicity to your Discord server using the following link: [Invite Link]
+1. Invite Anti Toxicity to your Discord server using the following link: https://invite.antitoxicity.tech
 2. Follow the on-screen instructions to grant Anti Toxicity the necessary permissions.
-3. Once installed, customize Anti Toxicity's settings using the `!Anti Toxicity config` command to ensure optimal moderation for your server.
-
-🚀 Getting Started:
-- **!Anti Toxicity help**: View a list of available commands and usage instructions.
-- **!Anti Toxicity config**: Customize Anti Toxicity's moderation settings to match your server's preferences.
-- **!Anti Toxicity status**: Check the current status of Anti Toxicity and view statistics on moderated content.
-- **!Anti Toxicity invite**: Get a shareable invite link to add Anti Toxicity to additional servers.
+3. Once installed, head over to [the dashboard](https://antitoxicity.tech/login) to customize Anti Toxicity's settings, to ensure optimal moderation.
 
 📚 Support:
 For assistance or inquiries, join our Discord server [Your Support Server] and visit the #Anti Toxicity-support channel. Our team is here to help you with any questions or issues you may encounter.
