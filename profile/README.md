@@ -25,8 +25,8 @@ Anti Toxicity is a powerful Discord bot developed by our team at [Your Organizat
 3. Once installed, head over to [the dashboard](https://antitoxicity.tech/login) to customize Anti Toxicity's settings, to ensure optimal moderation.
 
 📚 Support:
-For assistance or inquiries, join our Discord server [Your Support Server] and visit the #Anti Toxicity-support channel. Our team is here to help you with any questions or issues you may encounter.
+For assistance or inquiries, join our Discord server at https://discord.antitoxicity.tech and visit the #Anti Toxicity-support channel. Our team is here to help you with any questions or issues you may encounter.
 
 🙏 We hope Anti Toxicity enhances your Discord server's safety and fosters a welcoming community environment. Thank you for choosing Anti Toxicity!
 
-[Your Organization]
+Anti Toxicity Development Team
