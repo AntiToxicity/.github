@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 <br/>
-Anti Toxicity is a powerful Discord bot developed by our team at [Your Organization]. It utilizes cutting-edge Machine Learning models to detect and prevent hateful, sexual, and toxic behavior in your server's chats.
+Anti Toxicity is a powerful Discord bot developed by our team. It utilizes cutting-edge Machine Learning models to detect and prevent hateful, sexual, and toxic behavior in your server's chats.
 
 🔍 Features:
 - **Advanced AI Moderation**: Anti Toxicity employs in-house developed Machine Learning algorithms to analyze chat messages in real-time and identify potentially harmful content.
@@ -25,7 +25,7 @@ Anti Toxicity is a powerful Discord bot developed by our team at [Your Organizat
 3. Once installed, head over to [the dashboard](https://antitoxicity.tech/login) to customize Anti Toxicity's settings, to ensure optimal moderation.
 
 📚 Support:
-For assistance or inquiries, join our Discord server at https://discord.antitoxicity.tech and visit the #Anti Toxicity-support channel. Our team is here to help you with any questions or issues you may encounter.
+For assistance or inquiries, join [our Discord server](https://discord.antitoxicity.tech) and visit the #Anti Toxicity-support channel. Our team is here to help you with any questions or issues you may encounter.
 
 🙏 We hope Anti Toxicity enhances your Discord server's safety and fosters a welcoming community environment. Thank you for choosing Anti Toxicity!
 
